@@ -14,17 +14,23 @@ Here's a breakdown of the project into five distinct segments, along with the as
 Cleaned the data by removing outliers and employed the filter method to retain crucial features.
 Utilized Linear Regression and Random Forest for predictions on the refined dataset.
 Trained an XGB Regressor on the entire dataset and conducted a comparative analysis of the results.
+
 -Part 2:
 Leveraged the auto-Sklearn library for algorithm selection and hyperparameter tuning.
+
 -Part 3:
 Developed and trained two distinct Neural Networks.
+
 -Part 4:
 Employed Auto-PyTorch to optimize both the network architecture and training hyperparameters.
+
 -Part 5:
 Utilized PyTorch Tabular and trained models such as Category Embedding, GATE, NODE, and TabNet.
 
 Additional Files:
 
 -Body Fat Prediction Dataset (PDF_Version): A PDF version of the notebook for easier readability.
+
 -Body Fat Prediction Dataset (merged_notebook): Contains all parts of the project combined.
+
 -X and Y Datasets: The datasets used in the respective notebooks.
